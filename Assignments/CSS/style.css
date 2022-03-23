@@ -1,0 +1,17 @@
+body{background: rgb(164, 164, 164)}
+
+#head1 {
+    font-weight: bold;
+}
+
+
+
+#image{
+    height: 405px;
+    width: 492px;
+    top: 200px;
+    left: 80px;
+    position: absolute;
+    z-index: 1;
+}
+
